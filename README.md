@@ -1,4 +1,4 @@
-# HandScape chat app for iOS
+# QuickbloxChat chat app for iOS
 
 [![Language](https://img.shields.io/badge/language-Objective--C-yellow.svg?style=flat)]()
 [![Platform](https://img.shields.io/badge/platform-%3C%3D%20iOS%207.0-lightgrey.svg?style=flat)]()
@@ -17,11 +17,11 @@ This is chat app using quickblox for iOS
 
 ## Contact Info
 
-**_name_**:		_KmHk_
+**_name_**:		_EverglowingComet_
 
-**_email_**:	[_kmhk.lu@aol.com_](mailto:kmhk.lu@aol.com)
+**_email_**:	[_everglowingComet@hotmail.com_](mailto:everglowingComet@hotmail.com)
 
-**_git_**:		[_kmhk_](https://github.com/kmhk)
+**_git_**:		[_EverglowingComet_](https://github.com/EverglowingComet)
 
 
 ## Screen Video
